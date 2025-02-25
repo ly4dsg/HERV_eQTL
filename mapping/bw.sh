@@ -1,4 +1,4 @@
-bamCoverage=/home/zhufan/anaconda3/envs/tensorqtl_new/bin/bamCoverage
+bamCoverage=/software/bin/bamCoverage
 
 bam="input.bam"
 outbw="output.bw"
